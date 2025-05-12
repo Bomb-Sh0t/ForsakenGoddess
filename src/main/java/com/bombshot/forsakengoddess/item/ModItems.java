@@ -13,8 +13,8 @@ public class ModItems {
     public static final DeferredItem<Item> FORSAKEN_INGOT = ITEMS.register("forsaken_ingot",
             () -> new Item(new Item.Properties()));
 
-    public static final DeferredItem<BookItem> FATE_OF_THE_GODDESS = ITEMS.register("fate_of_the_goddess",
-            () -> new BookItem(new Item.Properties().stacksTo(1)));
+    public static final DeferredItem<Item> FATE_OF_THE_GODDESS = ITEMS.register("fate_of_the_goddess",
+            () -> new Item(new Item.Properties().stacksTo(1)));
 
     public static final DeferredItem<Item> PADLOCK_KEY = ITEMS.register("padlock_key",
             () -> new Item(new Item.Properties().stacksTo(1)));
