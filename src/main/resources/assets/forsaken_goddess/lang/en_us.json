@@ -1,5 +1,11 @@
 {
-  "itemGroup.forsaken_goddess": "Example Mod Tab",
-  "block.forsaken_goddess.example_block": "Example Block",
-  "item.forsaken_goddess.example_item": "Example Item"
+  "creativetab.forsaken_goddess.tab": "Forsaken Goddess",
+
+
+  "item.forsaken_goddess.eye_of_the_goddess": "Eye of the Goddess",
+  "item.forsaken_goddess.fate_of_the_goddess": "Fate of the Goddess",
+  "item.forsaken_goddess.forsaken_ingot": "Forsaken Ingot",
+  "item.forsaken_goddess.goddess_smithing_template": "Goddess Smithing Template",
+  "item.forsaken_goddess.lore_tablet": "Lore Tablet",
+  "item.forsaken_goddess.padlock_key": "Padlock Key"
 }
