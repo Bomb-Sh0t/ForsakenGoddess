@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:book"
+    },
+    "T": {
+      "item": "forsaken_goddess:lore_tablet"
+    }
+  },
+  "pattern": [
+    "TTT",
+    "TBT",
+    "TTT"
+  ],
+  "result": {
+    "count": 1,
+    "id": "forsaken_goddess:fate_of_the_goddess"
+  }
+}

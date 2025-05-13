@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "forsaken_goddess:forsaken_ingot"
+  },
+  "base": {
+    "item": "minecraft:diamond_hoe"
+  },
+  "result": {
+    "count": 1,
+    "id": "forsaken_goddess:forsaken_hoe"
+  },
+  "template": {
+    "item": "forsaken_goddess:forsaken_smithing_template"
+  }
+}

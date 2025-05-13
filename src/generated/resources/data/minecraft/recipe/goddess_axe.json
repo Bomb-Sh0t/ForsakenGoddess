@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "forsaken_goddess:eye_of_the_goddess"
+  },
+  "base": {
+    "item": "forsaken_goddess:forsaken_axe"
+  },
+  "result": {
+    "count": 1,
+    "id": "forsaken_goddess:goddess_axe"
+  },
+  "template": {
+    "item": "forsaken_goddess:goddess_smithing_template"
+  }
+}

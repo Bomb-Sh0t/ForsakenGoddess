@@ -27,6 +27,8 @@ public class ModItems {
 
     public static final DeferredItem<Item> GODDESS_SMITHING_TEMPLATE = ITEMS.register("goddess_smithing_template",
             () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> FORSAKEN_SMITHING_TEMPLATE = ITEMS.register("forsaken_smithing_template",
+            () -> new Item(new Item.Properties()));
 
 
 

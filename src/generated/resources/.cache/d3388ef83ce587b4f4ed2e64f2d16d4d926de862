@@ -1,4 +1,4 @@
-// 1.21.1	2025-05-12T22:12:24.4821539	Item Models: forsaken_goddess
+// 1.21.1	2025-05-13T02:09:51.3177944	Item Models: forsaken_goddess
 75ccaef6cbd8cf7f2157264b7a2c865cbac654dd assets/forsaken_goddess/models/item/eye_of_the_goddess.json
 62c893a0ff4f8746b47c3186c20dbfe6dcf52430 assets/forsaken_goddess/models/item/fate_of_the_goddess.json
 3fc7b6e3823fb1f39790ea6e384f5f77f0ed9a29 assets/forsaken_goddess/models/item/forsaken_axe.json
@@ -6,6 +6,7 @@
 2e8b5dc6e6fea0f9edd593e4d9908d3e3b13cdfa assets/forsaken_goddess/models/item/forsaken_ingot.json
 3cdae01e9fb6d937a2b3b250ad514080c318f89d assets/forsaken_goddess/models/item/forsaken_pickaxe.json
 d5f2582b48cfe31e2a752d4cb8bc9d48508fd5db assets/forsaken_goddess/models/item/forsaken_shovel.json
+d29db75dc6e6f9f08d41ccb2d7c329f10697da0d assets/forsaken_goddess/models/item/forsaken_smithing_template.json
 b0ca1feae66491e767d4173265dbd4539d0302ee assets/forsaken_goddess/models/item/forsaken_sword.json
 18d09a5a84b1e560329c554cffd483a6bd06e4f3 assets/forsaken_goddess/models/item/goddess_axe.json
 f57ad397be322dd6ba361ede843f67362c371e94 assets/forsaken_goddess/models/item/goddess_hoe.json

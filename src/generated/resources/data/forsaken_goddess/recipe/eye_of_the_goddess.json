@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "Q": {
+      "item": "minecraft:quartz_block"
+    },
+    "S": {
+      "item": "minecraft:netherite_scrap"
+    }
+  },
+  "pattern": [
+    "SQS",
+    "QEQ",
+    "SQS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "forsaken_goddess:eye_of_the_goddess"
+  }
+}

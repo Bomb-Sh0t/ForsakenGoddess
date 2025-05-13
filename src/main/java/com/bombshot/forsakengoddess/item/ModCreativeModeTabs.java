@@ -23,14 +23,16 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.LORE_TABLET);
                         output.accept(ModItems.FATE_OF_THE_GODDESS);
                         output.accept(ModItems.EYE_OF_THE_GODDESS);
-                        output.accept(ModItems.GODDESS_SMITHING_TEMPLATE);
                         output.accept(ModItems.PADLOCK_KEY);
 
+                        output.accept(ModItems.FORSAKEN_SMITHING_TEMPLATE);
                         output.accept(ModItems.FORSAKEN_SWORD);
                         output.accept(ModItems.FORSAKEN_PICKAXE);
                         output.accept(ModItems.FORSAKEN_AXE);
                         output.accept(ModItems.FORSAKEN_SHOVEL);
                         output.accept(ModItems.FORSAKEN_HOE);
+
+                        output.accept(ModItems.GODDESS_SMITHING_TEMPLATE);
                         output.accept(ModItems.GODDESS_SWORD);
                         output.accept(ModItems.GODDESS_PICKAXE);
                         output.accept(ModItems.GODDESS_SHOVEL);

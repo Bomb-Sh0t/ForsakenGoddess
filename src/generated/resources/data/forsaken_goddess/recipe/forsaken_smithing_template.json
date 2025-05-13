@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "forsaken_goddess:forsaken_ingot"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "pattern": [
+    "OFO",
+    "OIO",
+    "OOO"
+  ],
+  "result": {
+    "count": 4,
+    "id": "forsaken_goddess:forsaken_smithing_template"
+  }
+}

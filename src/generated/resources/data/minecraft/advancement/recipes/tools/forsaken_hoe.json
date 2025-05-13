@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_forsaken_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "items": "forsaken_goddess:forsaken_ingot"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:forsaken_hoe"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_forsaken_ingot"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:forsaken_hoe"
+    ]
+  }
+}

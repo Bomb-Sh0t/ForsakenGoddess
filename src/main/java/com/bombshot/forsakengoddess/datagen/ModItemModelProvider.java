@@ -21,6 +21,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         basicItem(ModItems.FORSAKEN_INGOT.get());
         basicItem(ModItems.EYE_OF_THE_GODDESS.get());
         basicItem(ModItems.GODDESS_SMITHING_TEMPLATE.get());
+        basicItem(ModItems.FORSAKEN_SMITHING_TEMPLATE.get());
         basicItem(ModItems.LORE_TABLET.get());
         basicItem(ModItems.FATE_OF_THE_GODDESS.get());
         basicItem(ModItems.PADLOCK_KEY.get());

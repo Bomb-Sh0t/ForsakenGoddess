@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_lore_tablet": {
+      "conditions": {
+        "items": [
+          {
+            "items": "forsaken_goddess:lore_tablet"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "forsaken_goddess:fate_of_the_goddess"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_lore_tablet"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "forsaken_goddess:fate_of_the_goddess"
+    ]
+  }
+}
