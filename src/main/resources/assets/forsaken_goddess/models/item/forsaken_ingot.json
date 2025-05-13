@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "forsaken_goddess:item/forsaken_ingot"
-  }
-}
