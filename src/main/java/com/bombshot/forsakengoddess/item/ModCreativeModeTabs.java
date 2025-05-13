@@ -26,6 +26,17 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.GODDESS_SMITHING_TEMPLATE);
                         output.accept(ModItems.PADLOCK_KEY);
 
+                        output.accept(ModItems.FORSAKEN_SWORD);
+                        output.accept(ModItems.FORSAKEN_PICKAXE);
+                        output.accept(ModItems.FORSAKEN_AXE);
+                        output.accept(ModItems.FORSAKEN_SHOVEL);
+                        output.accept(ModItems.FORSAKEN_HOE);
+                        output.accept(ModItems.GODDESS_SWORD);
+                        output.accept(ModItems.GODDESS_PICKAXE);
+                        output.accept(ModItems.GODDESS_SHOVEL);
+                        output.accept(ModItems.GODDESS_AXE);
+                        output.accept(ModItems.GODDESS_HOE);
+
 
                     }).build());
 

@@ -35,23 +35,44 @@ public class ModItems {
     //Forsaken Sword and Tools
     public static final DeferredItem<SwordItem> FORSAKEN_SWORD = ITEMS.register("forsaken_sword",
             () -> new SwordItem(ModToolTiers.FORSAKEN, new Item.Properties()
-                    .attributes(SwordItem.createAttributes(ModToolTiers.FORSAKEN, 8, -2.2f))));
+                    .attributes(SwordItem.createAttributes(ModToolTiers.FORSAKEN, 4, -2.2f))));
 
     public static final DeferredItem<PickaxeItem> FORSAKEN_PICKAXE = ITEMS.register("forsaken_pickaxe",
             () -> new PickaxeItem(ModToolTiers.FORSAKEN, new Item.Properties()
-                    .attributes(PickaxeItem.createAttributes(ModToolTiers.FORSAKEN, 2, -2.8f))));
+                    .attributes(PickaxeItem.createAttributes(ModToolTiers.FORSAKEN, 1, -2.8f))));
 
     public static final DeferredItem<ShovelItem> FORSAKEN_SHOVEL = ITEMS.register("forsaken_shovel",
             () -> new ShovelItem(ModToolTiers.FORSAKEN, new Item.Properties()
-                    .attributes(ShovelItem.createAttributes(ModToolTiers.FORSAKEN, 2, -3.0f))));
+                    .attributes(ShovelItem.createAttributes(ModToolTiers.FORSAKEN, 1, -3.0f))));
 
     public static final DeferredItem<AxeItem> FORSAKEN_AXE = ITEMS.register("forsaken_axe",
             () -> new AxeItem(ModToolTiers.FORSAKEN, new Item.Properties()
-                    .attributes(AxeItem.createAttributes(ModToolTiers.FORSAKEN, 9, -3.2f))));
+                    .attributes(AxeItem.createAttributes(ModToolTiers.FORSAKEN, 3, -3.2f))));
 
     public static final DeferredItem<HoeItem> FORSAKEN_HOE = ITEMS.register("forsaken_hoe",
             () -> new HoeItem(ModToolTiers.FORSAKEN, new Item.Properties()
-                    .attributes(HoeItem.createAttributes(ModToolTiers.FORSAKEN, 2, -3.0f))));
+                    .attributes(HoeItem.createAttributes(ModToolTiers.FORSAKEN, 0, -3.0f))));
+
+    //Goddess Sword and Tools
+    public static final DeferredItem<SwordItem> GODDESS_SWORD = ITEMS.register("goddess_sword",
+            () -> new SwordItem(ModToolTiers.GODDESS, new Item.Properties()
+                    .attributes(SwordItem.createAttributes(ModToolTiers.GODDESS, 4, -2.0f))));
+
+    public static final DeferredItem<PickaxeItem> GODDESS_PICKAXE = ITEMS.register("goddess_pickaxe",
+            () -> new PickaxeItem(ModToolTiers.GODDESS, new Item.Properties()
+                    .attributes(PickaxeItem.createAttributes(ModToolTiers.GODDESS, 1, -1f))));
+
+    public static final DeferredItem<ShovelItem> GODDESS_SHOVEL = ITEMS.register("goddess_shovel",
+            () -> new ShovelItem(ModToolTiers.GODDESS, new Item.Properties()
+                    .attributes(ShovelItem.createAttributes(ModToolTiers.GODDESS, 1, -3.0f))));
+
+    public static final DeferredItem<AxeItem> GODDESS_AXE = ITEMS.register("goddess_axe",
+            () -> new AxeItem(ModToolTiers.GODDESS, new Item.Properties()
+                    .attributes(AxeItem.createAttributes(ModToolTiers.GODDESS, 3, -3.2f))));
+
+    public static final DeferredItem<HoeItem> GODDESS_HOE = ITEMS.register("goddess_hoe",
+            () -> new HoeItem(ModToolTiers.GODDESS, new Item.Properties()
+                    .attributes(HoeItem.createAttributes(ModToolTiers.GODDESS, 0, -3.0f))));
 
 
     public static void register(IEventBus eventBus) {
