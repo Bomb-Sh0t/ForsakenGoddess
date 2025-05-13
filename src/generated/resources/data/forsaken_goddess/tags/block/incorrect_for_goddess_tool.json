@@ -1,0 +1,8 @@
+{
+  "remove": [
+    "#forsaken_goddess:needs_goddess_tool"
+  ],
+  "values": [
+    "#minecraft:incorrect_for_diamond_tool"
+  ]
+}
